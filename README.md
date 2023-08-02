@@ -1,8 +1,7 @@
 # Software Engineering Project
 
-It's my huge honor to work with some amazing guys in this project!
 
-## Interface
+## About
 [User Manual](https://docs.google.com/document/d/1JE3fOi-wDLmoxJkHFv0VrS4U5Ac7JAF_5eupDwSHs7A/edit?usp=sharing)
 
 [YouTube](https://youtu.be/-rbFr2o-8pE)
